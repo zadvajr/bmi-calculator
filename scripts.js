@@ -1,4 +1,8 @@
-document.getElementById("bmi-form").addEventListener("submit", function (event) {
+document
+  .getElementById("bmi-form")
+  .addEventListener("submit", function (event) {
+    event.preventDefault();
+
     const weight = parseFloat(document.getElementById("weight").value);
     const heightCm = parseFloat(document.getElementById("height").value);
     const heightM = heightCm / 100;
