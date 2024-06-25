@@ -12,3 +12,5 @@ BMI categories according to the World Health Organization (WHO) are:
 - Normal weight: 18.5 ≤ BMI < 24.9
 - Overweight: 25 ≤ BMI < 29.9
 - Obesity: BMI ≥ 30
+## Built With
+It is 100% built with pure HTML, CSS, and JavaScript.
